@@ -8,6 +8,8 @@ This library exposes a `WindowIPC` abstract class that you can extend to create 
 
 # Example Usage
 
+Demo app: https://github.com/ydeshayes/electron-windows-ipc-manager-example
+
 ## Main process side:
 
 ```ts
